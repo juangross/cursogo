@@ -1,0 +1,8 @@
+obs: git crea repositorio con rama "main" por defecto
+
+1- crear contenido
+2- git add .
+3- git commit -m "comentario" 
+
+para subir:
+4- git push origin master
